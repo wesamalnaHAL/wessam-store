@@ -1,0 +1,101 @@
+[
+        {
+          "id": 1,
+          "name": "Wireless Headphones",
+          "price": 79.99,
+          "img": "https://m.media-amazon.com/images/I/61-g7m+90eL.jpg",
+          "description": "Experience high-quality audio with these wireless headphones. Enjoy clear sound and convenient Bluetooth connectivity."
+        },
+        {
+          "id": 2,
+          "name": "Smart Watch",
+          "price": 129.99,
+          "img": "https://m.media-amazon.com/images/I/61gscZYmaoL._SL1377_.jpg",
+          "description": "Stay connected and t notifications, monitor your heart rate, and more."
+        },
+        {
+          "id": 3,
+          "name": "Digital Camera",
+          "price": 299.99,
+          "img": "https://m.media-amazon.com/images/I/71NDY5H-x3L._AC_UF894,1000_QL80_.jpg",
+          "description": "Capture beautiful moments with this high-resolution digital camera. Features include optical zoom, image stabilization, and various shooting modes."
+        },
+        {
+          "id": 4,
+          "name": "Leather Jacket",
+          "price": 199.99,
+          "img": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Mens-Jacket-Keanu-Black-110221-1.jpg?v=1636392243",
+          "description": "Add a touch of style to your wardrobe with this genuine leather jacket. It offers a classic design, superior comfort, and lasting durability."
+        },
+        {
+          "id": 5,
+          "name": "Kitchen Knife Set",
+          "price": 89.99,
+          "img": "https://m.media-amazon.com/images/I/71E+Y1oHn8L.jpg",
+          "description": "Upgrade your kitchen with this professional knife set. The set includes a variety of high-quality knives for all your cooking needs."
+        },
+        {
+          "id": 6,
+          "name": "Yoga Mat",
+          "price": 29.99,
+          "img": "https://m.media-amazon.com/images/I/81Ks1unc9GL._AC_UF1000,1000_QL80_.jpg",
+          "description": "Enhance your yoga practice with this non-slip and eco-friendly yoga mat. It provides comfort and stability during your workouts."
+        },
+        {
+          "id": 7,
+          "name": "Wireless Speaker",
+          "price": 149.99,
+          "img": "https://www.cobrashop.ps/wp-content/uploads/2023/02/Lenyes-high-quality-S810-wireless-speaker-4.jpg",
+          "description": "Enjoy your favorite music on the go with this portable wireless speaker. It delivers powerful sound and features Bluetooth connectivity."
+        },
+        {
+          "id": 9,
+          "name": "Cotton T-Shirt",
+          "price": 19.99,
+          "img": "https://images.teemill.com/owsfeggsy620o6yral57057erqqagza7clvbotbuk7mkgoaj.png.png?w=1080&h=auto",
+          "description": "Stay comfortable all day long with this soft and breathable cotton t-shirt. It offers a casual and versatile style for everyday wear."
+        },
+        {
+          "id": 10,
+          "name": "Stainless Steel Water Bottle",
+          "price": 24.99,
+          "img": "https://m.media-amazon.com/images/I/71wFyZlg58L.jpg",
+          "description": "Stay hydrated on the go with this durable and eco-friendly stainless steel water bottle. It keeps your drinks cold or hot for hours."
+        },
+        {
+          "id": 11,
+          "name": "Home Security Camera",
+          "price": 159.99,
+          "img": "https://pyxis.nymag.com/v1/imgs/05a/0f9/a9ee08e94a61ab4b6a023fbc70c4efd55f-09-cam.rsquare.w700.jpg",
+          "description": "Keep your home secure with this HD security camera. It features motion detection, night vision, and remote access via a smartphone app."
+        },
+        {
+            "id": 12,
+            "name": "Portable Power Bank",
+            "price": 49.99,
+            "img": "https://m.media-amazon.com/images/I/612vaudnEkL.jpg",
+            "description": "Never run out of battery again with this portable power bank. It provides multiple charges for your devices on the go, keeping you connected."
+          },
+          {
+            "id": 13,
+            "name": "Wireless Mouse",
+            "price": 29.99,
+            "img": "https://m.media-amazon.com/images/I/617BaM8NjnL._AC_SL1500_.jpg",
+            "description": "Enhance your productivity with this wireless mouse. It offers smooth and precise tracking, ergonomic design, and long battery life."
+          },
+          {
+            "id": 14,
+            "name": "Air Purifier",
+            "price": 179.99,
+            "img": "https://m.media-amazon.com/images/I/81UjS7Fwp2L.jpg",
+            "description": "Create a cleaner and healthier indoor environment with this advanced air purifier. It removes allergens, pollutants, and odors for fresh air."
+          },
+          {
+            "id": 15,
+            "name": "Bluetooth Earbuds",
+            "price": 69.99,
+            "img": "https://m.media-amazon.com/images/I/71exNLc-CnL.jpg",
+            "description": "Enjoy wireless freedom and immersive sound with these Bluetooth earbuds. They offer noise cancellation and long-lasting battery life."
+          }
+        
+        ]
