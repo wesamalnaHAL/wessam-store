@@ -38,7 +38,6 @@ const addToBasket = (product) => {
 }
 
 .row {
-  margin-left: 50px;
   margin-top: 50px;
 }
 
